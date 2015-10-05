@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="180"
+   height="180"
+   id="svg4600"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="01bag-xray.svg"
+   inkscape:export-filename="/home/vg/Project/boa/x-ray/assets/01bag-xray.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4602" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.99999999"
+     inkscape:cx="125.46594"
+     inkscape:cy="66.086573"
+     inkscape:document-units="px"
+     inkscape:current-layer="g5122"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:snap-global="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4608"
+       empspacing="6"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="5px"
+       spacingy="5px"
+       originx="0px"
+       originy="3.134766e-06px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4605">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-872.3622)"
+     id="g5122"
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     style="opacity:0.7;display:inline">
+    <path
+       style="fill:#ffffff;fill-opacity:0.4;stroke:none"
+       d="M 34.097266,882.09236 C 15.201476,882.09236 0,897.33114 0,916.22693 l 0,21.00302 c 0,-18.89579 15.201476,-34.09726 34.097266,-34.09726 l 110.872074,0 c 18.89579,0 34.09727,15.20147 34.09727,34.09726 l 0,-21.00302 c 0,-18.89579 -15.20148,-34.13457 -34.09727,-34.13457 l -110.872074,0 z"
+       id="rect5131"
+       inkscape:connector-curvature="0" />
+    <rect
+       ry="28.571428"
+       rx="28.571428"
+       y="903.14001"
+       x="0"
+       height="149.22217"
+       width="179.0666"
+       id="rect5140"
+       style="fill:#ffffff;fill-opacity:0.10196078;stroke:none" />
+    <path
+       id="path3128"
+       d="m 144.96934,1052.3622 c 18.89579,0 34.09727,-15.2388 34.09727,-34.1346 l 0,-21.00299 c 0,18.89579 -15.20148,34.09729 -34.09727,34.09729 l -110.872074,0 C 15.201477,1031.3219 0,1016.1204 0,997.22461 l 0,21.00299 c 0,18.8958 15.201477,34.1346 34.097266,34.1346 l 110.872074,0 z"
+       style="fill:#ffffff;fill-opacity:0.4;stroke:none"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 74.611086,873.70592 c -8.266909,0 -14.922218,5.66916 -14.922218,12.71113 l 0,12.7111 8.953331,0 0,-8.89777 c 0,-4.92938 4.658716,-8.89779 10.445552,-8.89779 l 20.891104,0 c 5.786835,0 10.445555,3.96841 10.445555,8.89779 l 0,8.89777 8.95333,0 0,-12.7111 c 0,-7.04197 -6.65531,-12.71113 -14.92222,-12.71113 l -29.844434,0 z"
+       id="rect5135"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="M 34.097266,903.14003 C 15.201476,903.14003 0,918.34147 0,937.23729 l 0,81.02761 c 0,18.8959 15.201476,34.0973 34.097266,34.0973 l 110.872074,0 c 18.89579,0 34.09727,-15.2014 34.09727,-34.0973 l 0,-81.02761 c 0,-18.89582 -15.20148,-34.09726 -34.09727,-34.09726 l -110.872074,0 z m 5.968887,4.9617 98.934297,0 c 18.89579,0 34.09727,15.23868 34.09727,34.13451 l 0,71.02976 c 0,18.8958 -15.20148,34.1346 -34.09727,34.1346 l -98.934297,0 c -18.89579,0 -34.0972662,-15.2388 -34.0972662,-34.1346 l 0,-71.02976 c 0,-18.89583 15.2014762,-34.13451 34.0972662,-34.13451 z"
+       id="rect5157"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
